@@ -62,7 +62,7 @@ class StreamProcessor:
         # together.
         count = 0
 
-# The running total of sums.
+        # The running total of sums.
         total = 0
 
         while count < 10 and total <= 200:
